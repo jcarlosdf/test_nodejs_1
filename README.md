@@ -12,4 +12,9 @@
 - post /movie -> crear una pelicula nueva
 - get /movies/1 -> obtener la pelicula con el id 1 (por parametros dinamicos)
 
-**En express**
+**Tecnologies:**
+1. express
+2. nodemon
+
+**Extension VSC**
+1. Thunder client
